@@ -1,6 +1,6 @@
-- 👋 BOOOOM 🧨 dia, sou a @VeineHellen
+- BOOOOM 🧨 dia, sou a @VeineHellen
 - Sou estudante e estou começando a estudar programação =>
-- 🎮 Jogo muito joguinhos de PC
+- Jogo muito joguinhos de PC 🎮
 
 <!---
 VeineHellen/VeineHellen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
